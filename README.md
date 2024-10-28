@@ -8,8 +8,8 @@ After suppressing my inner voice for too long I finally mustered up the courage 
 
 * 🌍  I'm based in Sofia, Bulgaria
 * ✉️  You can contact me at [svetlin.sii@gmail.com](mailto:svetlin.sii@gmail.com)
-* 🧠  I'm learning Python, Postres, Jango
-* 🤝  I'm open to collaborating on projects that tell stories out of data
+* 🧠  I'm learning Python, Postres, Jango. I'm writing code every day and working on projects that reinforce my knowledge.
+* 🤝  I'm open to collaborating on projects that tell stories out of data.
 
 
 ### Socials
@@ -30,9 +30,8 @@ After suppressing my inner voice for too long I finally mustered up the courage 
 <img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" style="padding-right:10px;" />
 <img align="left" alt="Mocha" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" style="padding-right:10px;" />
 
-<img align="left" alt="PyCharm" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
+<img align="left" alt="PyCharm" width="26px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PyCharm-Dark.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-
 
 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
