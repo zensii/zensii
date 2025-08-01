@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Svetlin Ivanov
 ======================================================================================================================================
 
-An automotive production leader gone rogue... (and embraced his passion for coding)
+An automotive production leader gone rogue... and embraced his passion for coding
 ---------------------------------------------------------------------------------------
 After suppressing my inner voice for too long I finally mustered up the courage and made the leap towards what I truly love doing!
 #
