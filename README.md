@@ -11,7 +11,7 @@ After suppressing my inner voice for too long I finally mustered up the courage 
 
 * 🌍  I'm based in Sofia, Bulgaria
 * ✉️  You can contact me at [svetlin.sii@gmail.com](mailto:svetlin.sii@gmail.com)
-* 🧠  I'm learning Python, Postres, Jango. I'm writing code every day and working on projects that reinforce my knowledge.
+* 🧠  I work in fintech as Data Scientist
 * 🤝  I'm open to collaborating on projects that tell stories out of data.
 
 <img align="right" width=170px height=160px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
